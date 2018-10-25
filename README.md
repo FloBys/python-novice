@@ -7,4 +7,4 @@ List the files :
 - data/*csv
 - scripts/utilis.py
 
-By Florence Buytaers
+By Florence Buytaers the non Dutch
